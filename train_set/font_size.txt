@@ -1,0 +1,30 @@
+
+Rar files named subwords_[FontIndex]_[FontSize]_[FontStyle].rar are extracted subwords saved with 300 dpi resolution.
+File names format: [SubwordIndex]_[FontIndex]_[FontSize]_[FontStyle].png
+The mean of each index in the above file names is described below.
+
+[subwordIndex]
+The line number of subwords listed in subwords.txt line by line.
+
+[FontIndex]
+1.Bnazanin
+2.BLotus
+3.BTitr
+4.BZar
+5.BKoodak
+6.Arial
+7.TimesNewRoman
+8.Tahoma
+
+[FontSize]
+8
+11
+14
+16
+18
+
+[FontStyle]
+1.Normal
+2.Bold
+3.Italic
+4.Underline
